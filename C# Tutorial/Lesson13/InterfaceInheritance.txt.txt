@@ -1,0 +1,7 @@
+Can be compiled by typing in the following command-line:
+
+csc interfaceinheritance.cs
+
+Can run executabel program by typing in the following command-line:
+
+interfaceinheritance.exe

@@ -1,0 +1,7 @@
+Can be compiled by typing in the follwoing command-line:
+
+csc finallydemo.cs
+
+Can run execuable program by typing in the following command-line:
+
+finallydemo.exe

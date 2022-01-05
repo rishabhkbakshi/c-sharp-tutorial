@@ -1,0 +1,7 @@
+Can be compiled by typing in the following command-line:
+
+csc structexample.cs
+
+Can run executable prgram by typing in the following command-line:
+
+structexample.exe

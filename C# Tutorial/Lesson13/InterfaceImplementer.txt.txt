@@ -1,0 +1,7 @@
+Can be compield by typing in the following command-line:
+
+csc interfaceimplementer.cs
+
+Can run executable program by typing in the following command-line:
+
+interfaceimplementer.exe
