@@ -1,0 +1,7 @@
+Can be compiled bytyping in the following command-line:
+
+csc namespacecss.cs
+
+Can run executable program by typing in the following camm-line:
+
+namespacecss.exe

@@ -1,0 +1,7 @@
+Can be compled by typing in the following command-line:
+
+csc Binary.cs
+
+Can run executable program by typing in the following command-line:
+
+Binary.exe

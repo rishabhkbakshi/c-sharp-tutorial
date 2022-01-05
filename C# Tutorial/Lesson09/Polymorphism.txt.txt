@@ -1,0 +1,7 @@
+Can be compiled by using the follwong command-line:
+
+csc drawingobject.cs lcs.cs drawdemo.cs
+
+Can run executable program by typing in the following command-line
+
+drawingobject lcs drawdemo

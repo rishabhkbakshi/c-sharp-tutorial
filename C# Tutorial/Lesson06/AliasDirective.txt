@@ -1,0 +1,7 @@
+Can be compiled by typing the following command-line:
+
+csc aliasdirective.cs
+
+Can run executable program by typing in the following command-line:
+
+aliasdirective.exe

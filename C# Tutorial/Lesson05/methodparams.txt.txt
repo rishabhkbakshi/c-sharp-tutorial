@@ -1,0 +1,7 @@
+Can be compiled by typing in the following command-line:
+
+csc methodparams.cs
+
+Can run executable program by typing in the following command-line:
+
+methodparams.exe
