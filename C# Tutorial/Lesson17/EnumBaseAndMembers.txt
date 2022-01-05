@@ -1,0 +1,7 @@
+Can be compiled by typing in the following command-line:
+
+csc EnumBaseAndMembers.cs
+
+Run the executable program by typing in the following command-line:
+
+EnumBaseAndMembers.exe

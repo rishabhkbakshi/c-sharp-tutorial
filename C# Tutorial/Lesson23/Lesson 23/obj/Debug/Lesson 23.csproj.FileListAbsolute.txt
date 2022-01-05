@@ -1,0 +1,15 @@
+C:\Projects\CSS2Code\Lesson 23\Lesson 23\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSS2Code\Lesson 23\Lesson 23\bin\Debug\Lesson 23.exe
+C:\Projects\CSS2Code\Lesson 23\Lesson 23\bin\Debug\Lesson 23.pdb
+C:\Projects\CSS2Code\Lesson 23\Lesson 23\obj\Debug\Lesson 23.exe
+C:\Projects\CSS2Code\Lesson 23\Lesson 23\obj\Debug\Lesson 23.pdb
+D:\study\C# tutorial\Lesson23\Lesson 23\obj\Debug\Lesson 23.exe
+D:\study\C# tutorial\Lesson23\Lesson 23\obj\Debug\Lesson 23.pdb
+D:\study\C# tutorial\Lesson23\Lesson 23\bin\Debug\Lesson 23.exe
+D:\study\C# tutorial\Lesson23\Lesson 23\bin\Debug\Lesson 23.pdb
+D:\study\C# tutorial\Lesson23\Lesson 23\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\Docs\C# Tutorial\Lesson23\Lesson 23\obj\Debug\Lesson 23.exe
+D:\Study\Docs\C# Tutorial\Lesson23\Lesson 23\obj\Debug\Lesson 23.pdb
+D:\Study\Docs\C# Tutorial\Lesson23\Lesson 23\bin\Debug\Lesson 23.exe
+D:\Study\Docs\C# Tutorial\Lesson23\Lesson 23\bin\Debug\Lesson 23.pdb
+D:\Study\Docs\C# Tutorial\Lesson23\Lesson 23\obj\Debug\Lesson 23.csprojResolveAssemblyReference.cache
